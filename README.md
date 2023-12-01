@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geovanny</h1>
 <h3 align="center">A passionate frontend and backend web developer</h3>
-
-- 🔭 I’m currently working on [MusicShop](https://github.com/Geo504/MusicShop)
+https://github.com/adminITdeWedd/deWedd
+- 🔭 I’m currently working on [DeWedd](https://github.com/adminITdeWedd/deWedd)
 
 - 🌱 I’m currently learning **Next.js 13 and node js**
 
